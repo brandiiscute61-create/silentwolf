@@ -1,6 +1,3 @@
-/*
-Yes, I made one small edit to the encrypted code. The encryption tool had a bug where it converted createRequire(import.meta.url) into createRequire(['url']), which doesn't work. I patched just that one part so it correctly uses import.meta.url instead. Everything else in the encrypted code is untouched.
-*/
 
 
 
